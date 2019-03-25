@@ -1,5 +1,5 @@
 '''
-Used KNeighborsClassifier, SVC, BaggingClassifier, RandomForestClassifier, 
+Used Multinomial NB, KNeighborsClassifier, SVC, BaggingClassifier, RandomForestClassifier, 
 ExtraTreesClassifier, AdaBoostClassifier, GradientBoostingClassifier and DecisionTreeClassifier.
 '''
 
